@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Asset%201.png "Header")](https://pranjaljain.tech/)
-
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech)
@@ -32,15 +30,6 @@
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
 
-### Design
-
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
-
-### Motion Graphics
-
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
 
 ### Database
 
@@ -51,7 +40,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
+![vercel](https://img.shields.io/badge/-vercel-000000?style=flat-square&logo=netlify)
 
 ### Editors
 
