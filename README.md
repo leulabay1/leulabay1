@@ -2,13 +2,16 @@
 
 ## [![Twitter Badge](https://img.shields.io/badge/-@leulabay1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Leul87391150)](https://twitter.com/Leul87391150) [![Linkedin Badge](https://img.shields.io/badge/-leulabay1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leul-abay-a2a638231/)](https://www.linkedin.com/in/leul-abay-a2a638231/) [![Gmail Badge](https://img.shields.io/badge/-hello@leulabay1-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leulabay1@gmailcom)](mailto:leulabay1@gmail.com)
 ## About me
-- 🔭 I’m currently working on <img alt="wave" src="https://github.com/leulabay1/leulabay1/blob/main/Programming.gif?raw=true" width="300px">
+<div>
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+</div>
+<img alt="wave" src="https://github.com/leulabay1/leulabay1/blob/main/Programming.gif?raw=true" width="300px">
 
 ## 🔧 Technologies & Tools
 
