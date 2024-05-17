@@ -2,6 +2,7 @@
 
 ## [![Twitter Badge](https://img.shields.io/badge/-@leulabay1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Leul87391150)](https://twitter.com/Leul87391150) [![Linkedin Badge](https://img.shields.io/badge/-leulabay1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leul-abay-a2a638231/)](https://www.linkedin.com/in/leul-abay-a2a638231/) [![Gmail Badge](https://img.shields.io/badge/-hello@leulabay1-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leulabay1@gmailcom)](mailto:leulabay1@gmail.com)
 
+
 ### Skills
 
 <p align="center">
@@ -10,8 +11,7 @@
   </a>
 </p>
 
-### Languages and Tools:
-
+### Languages:
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-2088F2?style=flat-square&logo=css3&logoColor=white" />
@@ -21,9 +21,9 @@
 <img alt="React" src="https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white" />
 <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<!-- <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-66B1F1?style=flat-square&logo=flutter&logoColor=white" /> -->
-<h3>Databases</h3>
-<h3>Tools</h3>
+</p>
+
+### Tools:
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
