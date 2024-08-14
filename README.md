@@ -45,7 +45,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/leulabay1/leulabay1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes-07&hide=css,hack&&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leulabay1&hide=css,hack&&theme=transparent" />
 </a>
 <a href="https://github.com/leulabay1/leulabay1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leulabay1&show_icons=true&line_height=27&count_private=true&&theme=transparent" alt="Pranjal's GitHub Stats" />
