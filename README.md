@@ -11,18 +11,6 @@
   </a>
 </p>
 
-### Languages:
-<p>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-2088F2?style=flat-square&logo=css3&logoColor=white" />
-<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-2088F2?style=flat-square&logo=Javascript&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-Tailwindcss-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white" />
-<img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-
 ### Tools:
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
